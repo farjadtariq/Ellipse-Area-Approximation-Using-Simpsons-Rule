@@ -65,4 +65,4 @@ The main goal is to understand the trade-offs between different data structures 
 **Farjad Tariq**
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details.
