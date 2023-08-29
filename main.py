@@ -27,6 +27,9 @@ Date: {ctime()}
 End of processing.\n""")
 
 def getPositiveNumber(prompt, EOF):
+    #prompt = the prompt to display to the user
+    #value = the number entered by the user
+    #EOF = end of file
     while True:
         value = input(prompt).strip()
         if value != '':
